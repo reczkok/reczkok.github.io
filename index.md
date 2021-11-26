@@ -1,4 +1,3 @@
-# Konrad Reczko  
 ## Welcome to my page!  
 Here you can find abut my ongoing projects and some information about me!  
 ### About me:
